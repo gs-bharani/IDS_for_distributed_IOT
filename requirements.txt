@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+motor
+scapy
+requests
+httpx
+pymongo
+email-validator
+python-jose[cryptography]
+passlib
+bcrypt==3.2.2
+python-multipart
+numpy
+joblib
+scikit-learn
